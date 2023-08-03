@@ -1,0 +1,15 @@
+
+#root {
+  height: 100%;
+}
+
+#container-light {
+  background-color: rgb(173, 207, 236);
+  color: black;
+}
+
+#container-dark {
+  background-color: rgb(3, 3, 84);
+  color: rgb(253, 253, 253);
+}
+

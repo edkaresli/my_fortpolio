@@ -1,0 +1,19 @@
+
+.contact-me {
+  @apply flex;
+  @apply flex-col;
+  @apply items-center;   
+  @apply justify-center;
+  @apply w-full;
+  @apply h-screen;
+}
+
+.contact-me-light {
+  @apply text-slate-800;
+  @apply bg-cyan-400;
+}
+
+.contact-me-dark {
+  @apply text-slate-300;
+  @apply bg-blue-800;
+}
